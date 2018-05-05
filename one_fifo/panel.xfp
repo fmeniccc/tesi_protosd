@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+ONLY LED FrontPanel Example
+Copyright (c) 2004, Opal Kelly Incorporated
+-->
+
+<resource version="2.3.0.1">
+
+<object class="okPanel" name="panel1">
+	<title> myfifo </title>
+	<size>500,400</size>
+	<object class="okFilePipe">
+		<label>Pipe Out</label>
+		<position>20,53</position>
+		<size>100,60</size>
+		<endpoint>0xa0</endpoint>							<!--Endpoint address for the corresponding Pipe In or Pipe Out.-->
+		<length>5000</length>
+		<tooltip>Read a file from Pipe 0xA0</tooltip>
+		<append />											<!--If present, an output file will be appended if it already exists.-->
+		<starttrigger>										<!--Describes the parameters of an optional Start Trigger (endpoint and bit).-->
+			<endpoint>0x40</endpoint>
+			<bit>0</bit>
+		</starttrigger>
+		<donetrigger>										<!--Describes the parameters of an optional Start Trigger (endpoint and bit).-->
+			<endpoint>0x40</endpoint>
+			<bit>1</bit>
+		</donetrigger>
+	</object>
+</object>
+
+</resource>
