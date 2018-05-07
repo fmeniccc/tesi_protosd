@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\workspace_xilinx\one_fifo\one_fifo.ncd
+OUTFILE=C:\workspace_xilinx\one_fifo\one_fifo.bit
+FAMILY=Spartan6
+PART=xc6slx45-2fgg484
+WORKINGDIR=C:\workspace_xilinx\one_fifo
+LICENSE=WebPack
+USER_INFO=211363186_0_0_833

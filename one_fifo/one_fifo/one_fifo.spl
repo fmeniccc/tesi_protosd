@@ -1,0 +1,11 @@
+[Inputs]
+reset
+clk1
+=datain[15:0]=
+=hi_in[7:0]=
+[Outputs]
+=dataout[15:0]=
+=hi_out[1:0]=
+[BiDir]
+hi_aa
+=hi_inout[15:0]=

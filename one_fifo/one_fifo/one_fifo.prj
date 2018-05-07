@@ -1,0 +1,3 @@
+vhdl work "ipcore_dir/myfifo.vhd"
+vhdl work "okLibrary.vhd"
+vhdl work "one_fifo.vhd"

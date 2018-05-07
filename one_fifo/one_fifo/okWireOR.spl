@@ -1,0 +1,5 @@
+[Inputs]
+=ok2s[16:0]=
+[Outputs]
+=ok2[16:0]=
+[BiDir]

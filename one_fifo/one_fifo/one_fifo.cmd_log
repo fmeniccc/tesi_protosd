@@ -1,0 +1,116 @@
+vhdtdtfi -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc xem6010.ucf -p xc6slx45-fgg484-2 one_fifo.ngc one_fifo.ngd  
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+vhdtdtfi -lib work okLibrary.vhd -lib work one_fifo.vhd -prj one_fifo -o one_fifo.spl -module one_fifo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 one_fifo.spl C:/workspace_xilinx/one_fifo/one_fifo.sym 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc xem6010.ucf -p xc6slx45-fgg484-2 one_fifo.ngc one_fifo.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o one_fifo_map.ncd one_fifo.ngd one_fifo.pcf 
+par -w -intstyle ise -ol high -mt off one_fifo_map.ncd one_fifo.ncd one_fifo.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml one_fifo.twx one_fifo.ncd -o one_fifo.twr one_fifo.pcf -ucf xem6010.ucf 
+bitgen -intstyle ise -f one_fifo.ut one_fifo.ncd 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc xem6010.ucf -p xc6slx45-fgg484-2 one_fifo.ngc one_fifo.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o one_fifo_map.ncd one_fifo.ngd one_fifo.pcf 
+par -w -intstyle ise -ol high -mt off one_fifo_map.ncd one_fifo.ncd one_fifo.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml one_fifo.twx one_fifo.ncd -o one_fifo.twr one_fifo.pcf -ucf xem6010.ucf 
+bitgen -intstyle ise -f one_fifo.ut one_fifo.ncd 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+xst -intstyle ise -ifn "C:/workspace_xilinx/one_fifo/one_fifo.xst" -ofn "C:/workspace_xilinx/one_fifo/one_fifo.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc xem6010.ucf -p xc6slx45-fgg484-2 one_fifo.ngc one_fifo.ngd  
+map -intstyle ise -p xc6slx45-fgg484-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o one_fifo_map.ncd one_fifo.ngd one_fifo.pcf 
+par -w -intstyle ise -ol high -mt off one_fifo_map.ncd one_fifo.ncd one_fifo.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml one_fifo.twx one_fifo.ncd -o one_fifo.twr one_fifo.pcf -ucf xem6010.ucf 
